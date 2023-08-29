@@ -40,6 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pain2821/Pain2821/output/snake.svg" alt="Snake animation" />
+#<img src="https://raw.githubusercontent.com/Pain2821/Pain2821/output/snake.svg" alt="Snake animation" />
 
 ###
