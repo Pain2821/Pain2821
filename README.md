@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="135" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhremwzZnRtYWhsbjdpb3MzZG5yYWRodDc5bmd4N2cwbHlrODFqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif"  />
+<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhremwzZnRtYWhsbjdpb3MzZG5yYWRodDc5bmd4N2cwbHlrODFqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif"  />
 
 ###
 
@@ -27,19 +27,25 @@
 ###
 
 <div align="left">
+  <a href="https://in.linkedin.com/in/dainik-bhuva-b1171117b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/pain.2001/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBxxsJSNTbBqMcGjGpzCSBSKfVdDvSBDMpjLnPlSVdKCTxkkrwnHRqzrVWLJcFLFnnpCpn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://in.linkedin.com/in/dainik-bhuva-b1171117b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-#<img src="https://raw.githubusercontent.com/Pain2821/Pain2821/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pain2821&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pain2821&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Pain2821&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=2&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
