@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! I'm your friendly Neighborhood developer 'Pain' from India.</h2>
+<h2 align="left">Hi 👋! I'm your friendly Neighborhood developer from India.</h2>
 
 ###
 
